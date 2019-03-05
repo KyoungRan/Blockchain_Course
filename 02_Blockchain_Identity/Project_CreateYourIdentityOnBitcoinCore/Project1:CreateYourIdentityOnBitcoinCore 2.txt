@@ -1,0 +1,4 @@
+
+* Wallet address: 19uJNhPkAqu5qdehyuPZicKu5adWtZ2jPx
+* Message:19uJNhPkAqu5qdehyuPZicKu5adWtZ2jPx: Udacity rocks!
+* Message signature: IKWZbCQ2FXPm/EO9di3fBN5mLu+b8QvEQwe45TCYnGm8EnwcjM1Vrl5nQs969uz8umaBnMlYoAtu7A0NOe2hjvU=
